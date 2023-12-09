@@ -1,0 +1,44 @@
+#small{
+    text-align: left;
+    width: 1200px;
+    height: 150px;
+    background-color: gray;
+    border: 1px dotted black;
+}
+#header{
+    width: 1200px;
+    height: 500px;
+    background-color: darkblue;
+    border: 1px dotted black;
+    text-align: center;
+}
+#Feature{
+    width: 1200px;
+    margin: 100px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 100px;
+}
+#nav{
+    text-align: right;
+}
+li{
+    display: inline;
+    margin-right: 20px;
+}
+.boxes{
+    background-color: cadetblue;
+    width: 200px;
+    border: 1px;
+    margin-left: 20px;
+}
+#Contact{
+    text-align: center;
+    margin-top: 100px;
+}
+
+#About{
+    margin-top: 100px;
+    text-align: center;
+}
